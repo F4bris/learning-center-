@@ -1,0 +1,58 @@
+{
+  "app": {
+    "title": "Custom Wine Cellars Manufacturers",
+    "logo-alt": "Kessick Wine Storage Systems logo"
+  },
+  "option": {
+    "home": "Home",
+    "new-storage-item": "New Storage Item"
+  },
+  "navigation": {
+    "main": "Main navigation",
+    "language": "Select language"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Engineered Products for Wine Cellars."
+  },
+  "my-wine-cellars": {
+    "title": "My Wine Cellars"
+  },
+  "cellar-summary": {
+    "empty": "Empty",
+    "quantity": "Quantity",
+    "total-bottles": "Total Bottles",
+    "available-capacity": "Available Capacity"
+  },
+  "new-storage-item": {
+    "title": "New Storage Item",
+    "subtitle": "Add Wine Bottles to Your Cellar"
+  },
+  "storage-item-form": {
+    "wine-type": "Wine Type",
+    "wine": "Wine",
+    "quantity": "Quantity",
+    "select-wine-type": "Select a wine type",
+    "select-wine": "Select a wine",
+    "available-capacity": "Available capacity: {available}",
+    "capacity-exceeded": "The quantity exceeds the available capacity of the cellar ({available}).",
+    "create": "Create",
+    "cancel": "Cancel"
+  },
+  "wine-types": {
+    "reds": "Reds",
+    "whites": "Whites",
+    "sparkling": "Sparkling",
+    "rose": "Rosé",
+    "dessert": "Dessert",
+    "port": "Port"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path {unavailable-route} was not found.",
+    "go-home": "Go Home"
+  },
+  "errors": {
+    "occurred": "Errors occurred"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "cellars": [
+    {
+      "id": 1,
+      "name": "Reds Cellar",
+      "wineType": "reds",
+      "capacity": 20
+    },
+    {
+      "id": 2,
+      "name": "Whites Cellar",
+      "wineType": "whites",
+      "capacity": 10
+    },
+    {
+      "id": 3,
+      "name": "Sparkling Cellar",
+      "wineType": "sparkling",
+      "capacity": 12
+    },
+    {
+      "id": 4,
+      "name": "Rose Cellar",
+      "wineType": "rose",
+      "capacity": 8
+    },
+    {
+      "id": 5,
+      "name": "Dessert Cellar",
+      "wineType": "dessert",
+      "capacity": 6
+    },
+    {
+      "id": 6,
+      "name": "Port Cellar",
+      "wineType": "port",
+      "capacity": 5
+    }
+  ],
+  "storage-items": [
+    {
+      "id": 1,
+      "cellarId": 1,
+      "wineType": "reds",
+      "wineId": 1,
+      "wineName": "Cabernet 2015",
+      "quantity": 6,
+      "registeredAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "cellarId": 1,
+      "wineType": "reds",
+      "wineId": 2,
+      "wineName": "Merlot 2018",
+      "quantity": 4,
+      "registeredAt": "2026-01-02T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "cellarId": 2,
+      "wineType": "whites",
+      "wineId": 1,
+      "wineName": "Chardonnay 2020",
+      "quantity": 3,
+      "registeredAt": "2026-01-03T10:00:00.000Z"
+    },
+    {
+      "cellarId": 2,
+      "wineType": "whites",
+      "wineId": 1,
+      "wineName": "Montrachet Grand Cru 2010",
+      "quantity": 4,
+      "registeredAt": "2026-10-12T03:31:46.716Z",
+      "id": 4
+    },
+    {
+      "cellarId": 2,
+      "wineType": "whites",
+      "wineId": 479,
+      "wineName": "Primo Amore Moscato delle Venezie 2008",
+      "quantity": 9,
+      "registeredAt": "2026-10-12T03:33:59.288Z",
+      "id": 5
+    },
+    {
+      "cellarId": 4,
+      "wineType": "rose",
+      "wineId": 362,
+      "wineName": "Red Moscato 2000",
+      "quantity": 1,
+      "registeredAt": "2026-10-12T03:34:39.178Z",
+      "id": 6
+    },
+    {
+      "cellarId": 3,
+      "wineType": "sparkling",
+      "wineId": 1,
+      "wineName": "Clos d'Ambonnay Blanc de Noirs Brut Champagne 1995",
+      "quantity": 5,
+      "registeredAt": "2026-10-12T03:36:14.230Z",
+      "id": 7
+    },
+    {
+      "cellarId": 2,
+      "wineType": "whites",
+      "wineId": 11,
+      "wineName": "Montrachet Grand Cru Marquis de Laguiche 2002",
+      "quantity": 1,
+      "registeredAt": "2026-10-12T03:38:25.428Z",
+      "id": 8
+    }
+  ]
+}

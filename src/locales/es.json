@@ -1,0 +1,58 @@
+{
+  "app": {
+    "title": "Fabricantes de Bodegas de Vino a Medida",
+    "logo-alt": "Logo de Kessick Wine Storage Systems"
+  },
+  "option": {
+    "home": "Inicio",
+    "new-storage-item": "Nuevo Ítem de Almacenamiento"
+  },
+  "navigation": {
+    "main": "Navegación principal",
+    "language": "Seleccionar idioma"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Productos de Ingeniería para Bodegas de Vino."
+  },
+  "my-wine-cellars": {
+    "title": "Mis Bodegas de Vino"
+  },
+  "cellar-summary": {
+    "empty": "Vacío",
+    "quantity": "Cantidad",
+    "total-bottles": "Total de Botellas",
+    "available-capacity": "Capacidad Disponible"
+  },
+  "new-storage-item": {
+    "title": "Nuevo Ítem de Almacenamiento",
+    "subtitle": "Agrega Botellas de Vino a Tu Bodega"
+  },
+  "storage-item-form": {
+    "wine-type": "Tipo de Vino",
+    "wine": "Vino",
+    "quantity": "Cantidad",
+    "select-wine-type": "Selecciona un tipo de vino",
+    "select-wine": "Selecciona un vino",
+    "available-capacity": "Capacidad disponible: {available}",
+    "capacity-exceeded": "La cantidad excede la capacidad disponible de la bodega ({available}).",
+    "create": "Crear",
+    "cancel": "Cancelar"
+  },
+  "wine-types": {
+    "reds": "Tintos",
+    "whites": "Blancos",
+    "sparkling": "Espumosos",
+    "rose": "Rosados",
+    "dessert": "De Postre",
+    "port": "Oporto"
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "La ruta {unavailable-route} no fue encontrada.",
+    "go-home": "Ir a Inicio"
+  },
+  "errors": {
+    "occurred": "Ocurrieron errores"
+  }
+}
